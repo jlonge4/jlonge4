@@ -8,7 +8,7 @@ Charlotte, NC
 Data scientist specializing in generative AI, and deep learning. Founder of GroundedAI, developing tools for evaluating large language model applications.
 
 - Data Scientist
-- Founder, [GroundedAI](https://github.com/grounded-ai/grounded_ai)
+- Building [GroundedAI](https://github.com/grounded-ai/grounded_ai)
 - OSS Contributor
 
 ### Education
