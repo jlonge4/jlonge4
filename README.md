@@ -8,10 +8,10 @@ Charlotte, NC
 Data scientist specializing in generative AI, and deep learning. Founder of GroundedAI, developing tools for evaluating large language model applications.
 
 - Data Scientist
-- Founder, GroundedAI [GitHub](https://github.com/grounded-ai/grounded_ai)
-- Open Source Contributor
+- Founder, [GroundedAI](https://github.com/grounded-ai/grounded_ai)
+- OSS Contributor
 
 ### Education
 MS Data Analytics, BS Software Engineering
 
-[LinkedIn Profile](https://www.linkedin.com/in/josh-longenecker-5a6902226/)
+Find me on [LinkedIn](https://www.linkedin.com/in/josh-longenecker-5a6902226/)
