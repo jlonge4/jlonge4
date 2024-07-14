@@ -1,4 +1,4 @@
-# Josh Longenecker
+# Hi, I'm Josh
 
 ## Data Scientist | AI Engineer | GroundedAI Founder
 
