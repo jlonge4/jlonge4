@@ -1,6 +1,6 @@
 # Hi, I'm Josh
 
-## Data Scientist | AI Engineer | GroundedAI Founder
+## AI/ML Specialist
 
 Charlotte, NC
 
